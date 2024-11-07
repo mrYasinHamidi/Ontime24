@@ -1,6 +1,6 @@
 # Ontime24
 Intro page for Ontime24 application   
-Because of the confidentiality of the project, I am excused from uploading the APK and the source code.
+You can download the APK file from [this](https://github.com/mrYasinHamidi/Ontime24/releases/download/0.1.15/ontime24.apk) link.
 
 <p float="left">
   <img src="./screenshots/img_1.jpg" width="30%" />
